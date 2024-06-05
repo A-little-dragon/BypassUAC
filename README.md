@@ -26,12 +26,12 @@ BypassUAC.exe "目标程序绝对路径"
 
 
 
-![d0f0f6c4798560ab95fc6a63ed18ad5](image\d0f0f6c4798560ab95fc6a63ed18ad5.png)
+![d0f0f6c4798560ab95fc6a63ed18ad5](./image/d0f0f6c4798560ab95fc6a63ed18ad5.png)
 
-![117eaf2bd9f355fbc7496a575fcb3c4](image\117eaf2bd9f355fbc7496a575fcb3c4.png)
+![117eaf2bd9f355fbc7496a575fcb3c4](./image/117eaf2bd9f355fbc7496a575fcb3c4.png)
 
-![1c6fca877a87896b3f2afe3fb19c409](image\1c6fca877a87896b3f2afe3fb19c409.png)
+![1c6fca877a87896b3f2afe3fb19c409](./image/1c6fca877a87896b3f2afe3fb19c409.png)
 
-![41451ede4c7cf49e19ee862e16096ac](image\41451ede4c7cf49e19ee862e16096ac.png)
+![41451ede4c7cf49e19ee862e16096ac](image/41451ede4c7cf49e19ee862e16096ac.png)
 
-![59d9c8b20ec07e96e5a84699f5f294a](image\59d9c8b20ec07e96e5a84699f5f294a.png)
+![59d9c8b20ec07e96e5a84699f5f294a](./image/59d9c8b20ec07e96e5a84699f5f294a.png)
